@@ -4,7 +4,11 @@
 <img align="right" width=300px alt="Coding Cat" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
-
+I am a Software Engineering student eager to explore new technologies and bring creative ideas to life.
+My main expertise is in front-end development, where I enjoy crafting intuitive and visually appealing 
+designs using Figma. I am currently expanding my knowledge in back-end development to build more dynamic
+and scalable applications. Always seeking new challenges, I strive to create innovative and efficient 
+digital solutions.
 👨‍💻 Passionate about software development and artificial intelligence.  
 🎯 Currently learning and mastering full-stack development.  
 💡 Love solving problems and creating intuitive user experiences.  
