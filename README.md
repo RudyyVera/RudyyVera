@@ -3,21 +3,18 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=RudiDev.repoName) 
 [![GitHub followers](https://img.shields.io/github/followers/RudiDev.svg?style=social&label=Follow)](https://github.com/RudiDev?tab=followers)
 
-<p align="right">
-  <img align="right" width="320px" alt="Coding Cat" src="https://s4.ezgif.com/tmp/ezgif-427752e639e077.gif" />
-</p>
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
+<img align="right" width=300px alt="Coding Cat" src="https://s4.ezgif.com/tmp/ezgif-427752e639e077.gif" />
 I am a Software Engineering student passionate about learning and innovation. I specialize in front-end development and love designing in Figma. Currently, I am expanding my skills in back-end development to build more complete projects.
 
-### 🌱 I’m currently learning:
+ 🌱 I’m currently learning ...
   - Nest.js
-  - Angular
 
-### 👾 Passionate about:
-  - Software development and artificial intelligence  
-  - Problem-solving and creating intuitive user experiences  
-  - Exploring AI, Web Development, and Cloud Technologies  
+👾 Passionate about software development and artificial intelligence.  
+💡 Love solving problems and creating intuitive user experiences.  
+🌱 Exploring AI, Web Development, and Cloud Technologies.  
+
+
 
 ---
 
@@ -26,7 +23,6 @@ I am a Software Engineering student passionate about learning and innovation. I 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
