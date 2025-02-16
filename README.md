@@ -1,6 +1,6 @@
 # <h1 align="center">Hi , I'm Rudi Vera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=RudiDev.repoName) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=RudiDev.RudiDev) 
 [![GitHub followers](https://img.shields.io/github/followers/RudiDev.svg?style=social&label=Follow)](https://github.com/RudiDev?tab=followers)
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
@@ -13,8 +13,6 @@ I am a Software Engineering student passionate about learning and innovation. I 
 👾 Passionate about software development and artificial intelligence.  
 💡 Love solving problems and creating intuitive user experiences.  
 🌱 Exploring AI, Web Development, and Cloud Technologies.  
-
-
 
 ---
 
