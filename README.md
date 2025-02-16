@@ -1,11 +1,11 @@
-<h1 align="center">Hi , I'm Rudi Vera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+a<h1 align="center">Hi , I'm Rudi Vera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RudyyVera&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://github.com/RudyyVera)
 [![GitHub followers](https://img.shields.io/github/followers/RudyyVera?style=social)](https://github.com/RudyyVera?tab=followers)
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
-<img align="right" width=300px alt="Coding Cat" src="https://s4.ezgif.com/tmp/ezgif-427752e639e077.gif" />
+<img align="right" width=300px alt="Coding Cat" src="https://i.postimg.cc/GhnFhdKy/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313237373331322f73637265656e73686f7473.gif" />
+
 I am a Software Engineering student passionate about learning and innovation. I specialize in front-end development and love designing in Figma. Currently, I am expanding my skills in back-end development to build more complete projects.
 
  🌱 I’m currently learning ...
