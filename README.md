@@ -1,21 +1,23 @@
 # <h1 align="center">Hi , I'm Rudi Vera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=RudiDev.repoName) [![GitHub followers](https://img.shields.io/github/followers/RudiDev.svg?style=social&label=Follow)](https://github.com/RudiDev?tab=followers)<br/>
 
-<img align="right" width=300px alt="Coding Cat" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=RudiDev.repoName) 
+[![GitHub followers](https://img.shields.io/github/followers/RudiDev.svg?style=social&label=Follow)](https://github.com/RudiDev?tab=followers)
+
+<p align="right">
+  <img align="right" width="320px" alt="Coding Cat" src="https://s4.ezgif.com/tmp/ezgif-427752e639e077.gif" />
+</p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
-I am a Software Engineering student passionate about learning and innovation. I specialize in 
-front-end development and love designing in Figma. Currently, I am expanding my skills in back-end 
-development to build more complete projects.
+I am a Software Engineering student passionate about learning and innovation. I specialize in front-end development and love designing in Figma. Currently, I am expanding my skills in back-end development to build more complete projects.
 
- 🌱 I’m currently learning ...
+### 🌱 I’m currently learning:
   - Nest.js
   - Angular
 
-👾Passionate about software development and artificial intelligence.  
-🎯 Currently learning and mastering full-stack development.  
-💡 Love solving problems and creating intuitive user experiences.  
-🌱 Exploring AI, Web Development, and Cloud Technologies.  
+### 👾 Passionate about:
+  - Software development and artificial intelligence  
+  - Problem-solving and creating intuitive user experiences  
+  - Exploring AI, Web Development, and Cloud Technologies  
 
 ---
 
@@ -55,4 +57,4 @@ development to build more complete projects.
 
 ---
 
-🌟 _Always learning and building cool things!_ Let's collaborate! 🚀 quiero que las letras se vean bien y el gif un poc mas grande
+🌟 _Always learning and building cool things!_ Let's collaborate! 🚀
